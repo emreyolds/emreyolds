@@ -4,6 +4,6 @@ Json PCo ,web IDE, bug fix and improvement,
 Functional Web Services of SAP systems.
 
 - 🌱 I’m currently learning React Native
-- 📫 How to reach me yoldasemre98qgmail.com
+- 📫 How to reach me yoldasemre98gmail.com
 
 
